@@ -7,7 +7,7 @@
 }
 
 .main{
-  height: 100vh;
+  height: 100%;
   width: 100%;
   background-color: rgb(231, 231, 231);
 }
@@ -95,4 +95,25 @@
 
 .banner img{
   width: 100%;
+}
+
+.men{
+  margin-top: 40px;
+}
+
+.men h1{
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: 600;
+  padding: 0 20px;
+  color: rgb(48, 47, 47)
+}
+
+.men-img{
+  display: grid;
+  grid-template-columns:auto auto auto auto;
+}
+
+.men-img div{
+  margin: 5px;
 }
