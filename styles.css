@@ -76,3 +76,19 @@
   background-color: rgb(223, 223, 223);
   border: none;
 }
+
+.nav-4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-4-profile{
+  margin: 10px;
+  font-size: 20px;  
+}
+
+.nav-4-img{
+  display: flex;
+  justify-content: center;
+}
